@@ -1,0 +1,16 @@
+.logo {
+  width: 300px;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+}
+
+.menu {
+  display: flex;
+}
+
+.menu > li {
+  margin: 20px;
+}
